@@ -52,3 +52,5 @@ Science scores are slightly higher on average than Math and English (from datase
 The dataset shows natural variation in student abilities and study habits.
 
 # Charts
+<img width="918" height="530" alt="Image" src="https://github.com/user-attachments/assets/2c82a6ca-c427-4a05-a079-7402fcf2361d" />
+<img width="869" height="471" alt="Image" src="https://github.com/user-attachments/assets/c6863add-9c51-4e2e-9b10-0f066dc7758d" />
